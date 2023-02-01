@@ -1,2 +1,0 @@
-hello this is index
-this is for third commit
